@@ -1,0 +1,13 @@
+{
+	"extensions":
+	[
+		"snip",
+		"html"
+	],
+	"rulers":
+	[
+		80,
+		120
+	],
+	"word_wrap": true
+}

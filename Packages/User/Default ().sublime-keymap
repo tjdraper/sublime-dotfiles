@@ -1,0 +1,3 @@
+[
+	{ "keys": ["control+u"], "command": "toggle_side_bar" }
+]

@@ -1,0 +1,12 @@
+{
+	"extensions":
+	[
+		"php",
+		"md"
+	],
+	"rulers":
+	[
+		80
+	],
+	"word_wrap": true
+}

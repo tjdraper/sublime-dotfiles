@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/My Color Schemes/MarkdownEditor.tmTheme",
+	"draw_centered": false,
+	"extensions":
+	[
+		"mdown",
+		"txt"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"word_wrap": true
+}
