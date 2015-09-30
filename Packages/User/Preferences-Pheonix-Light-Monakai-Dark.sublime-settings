@@ -1,0 +1,40 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai-Modified-dark (SL).tmTheme",
+	"drag_text": false,
+	"draw_white_space": "all",
+	"enable_tab_scrolling": false,
+	"fade_fold_buttons": false,
+	"font_face": "Inconsolata",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"match_brackets_angle": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"open_files_in_new_window": false,
+	"preview_on_click": true,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"theme": "Phoenix Light.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
