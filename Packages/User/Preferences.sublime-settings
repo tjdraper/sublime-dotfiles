@@ -25,6 +25,7 @@
 	"match_brackets_angle": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
 	"open_files_in_new_window": false,
 	"preview_on_click": true,
 	"rulers":
