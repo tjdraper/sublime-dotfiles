@@ -3,5 +3,9 @@
 	{ "keys": ["super+r"], "command": "reveal_in_side_bar" },
 	{ "keys": ["ctrl+r"], "command": "refresh_folder_list"},
 	{ "keys": ["f5"], "command": "refresh_folder_list"},
-	{ "keys": ["super+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} }
+	{ "keys": ["super+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+	{ "keys": ["ctrl+r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+	{ "keys": ["ctrl+]"], "command": "indent" },
+	{ "keys": ["ctrl+["], "command": "unindent" },
+	{ "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} }
 ]

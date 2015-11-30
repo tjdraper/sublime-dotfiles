@@ -5,27 +5,26 @@
 	],
 	"installed_packages":
 	[
-		"BracketHighlighter",
+		"CodeComplice",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
 		"ExpressionEngine",
-		"Function Name Display",
-		"GitGutter",
 		"LESS",
 		"Material Theme",
 		"Package Control",
 		"Phpcs",
 		"Pretty JSON",
 		"Scratch",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
+		"SublimeLinter-phpmd",
 		"Syntax Highlighting for Sass",
 		"Tabright",
 		"Terminal",
-		"Theme - Phoenix"
+		"Theme - Phoenix",
+		"TodoReview"
 	]
 }
