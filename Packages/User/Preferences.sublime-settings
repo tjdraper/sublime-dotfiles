@@ -1,4 +1,5 @@
 {
+	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"close_windows_when_empty": false,
@@ -17,16 +18,32 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"LessImproved",
 		"Markdown",
+		"Markdown Preview",
+		"Phpcs",
+		"Scratch",
+		"SublimeLinter-phpmd",
+		"TodoReview",
 		"Vintage"
 	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
 	"match_brackets_angle": true,
+	"material_theme_compact_panel": true,
+	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"material_theme_tree_headings": true,
 	"open_files_in_new_window": false,
+	"overlay_scroll_bars": true,
 	"preview_on_click": true,
 	"rulers":
 	[

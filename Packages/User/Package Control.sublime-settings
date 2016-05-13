@@ -6,12 +6,18 @@
 	"installed_packages":
 	[
 		"CodeComplice",
+		"Color Highlighter",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
 		"ExpressionEngine",
 		"LESS",
+		"LessImproved",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
 		"Material Theme",
+		"Material Theme - Appbar",
 		"Package Control",
 		"Phpcs",
 		"Pretty JSON",
@@ -23,7 +29,6 @@
 		"SublimeLinter-phpmd",
 		"Syntax Highlighting for Sass",
 		"Tabright",
-		"Terminal",
 		"Theme - Phoenix",
 		"TodoReview"
 	]

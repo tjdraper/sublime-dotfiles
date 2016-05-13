@@ -1,4 +1,11 @@
 {
-	"word_wrap": true,
-	"rulers": [80]
+	"extensions":
+	[
+		"php"
+	],
+	"rulers":
+	[
+		80
+	],
+	"word_wrap": true
 }
